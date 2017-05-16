@@ -24,12 +24,12 @@ The goals / steps of this project are the following:
 [image3]: ./normalized.png "Normalized"
 [image4]: ./rotatednormalized.png "Augmented Normalized"
 [image5]: ./german/1.png "Traffic Sign 1"
-[image6]: ./german/2.png "Traffic Sign 2"
-[image7]: ./german/3.png "Traffic Sign 3"
-[image8]: ./german/4.png "Traffic Sign 4"
-[image9]: ./german/5.png "Traffic Sign 5"
-[image10]: ./german/6.png "Traffic Sign 6"
-[image11]: ./german/7.png "Traffic Sign 7"
+[image6]: ./german/4.png "Traffic Sign 2"
+[image7]: ./german/9.png "Traffic Sign 3"
+[image8]: ./german/13.png "Traffic Sign 4"
+[image9]: ./german/18.png "Traffic Sign 5"
+[image10]: ./german/25.png "Traffic Sign 6"
+[image11]: ./german/35.png "Traffic Sign 7"
 [image12]: ./test_images.png "Probability"
 
 ## Rubric Points
@@ -71,7 +71,6 @@ Here is an example of a traffic sign image before and after normalization.
 
 ![alt text][image2]
 
-![alt text][image3]
 
 I decided to generate additional data because the model seemed to be overfitting due to limited training data for certain classes.
 
