@@ -133,13 +133,13 @@ Here are seven German traffic signs that I found on the web:
 
 | Image         		|     Description	        					|
 |:---------------------:|:---------------------------------------------:|
-| ![alt text][image5]	| Easy											|
+| ![alt text][image5]	| Easy - good brightness and contrast, centered.									|
 | ![alt text][image6]	| Medium - the bright blue background may throw off the model because some signs have a similar color	|
-| ![alt text][image7]	|												|
-| ![alt text][image8]	|												|
-| ![alt text][image9]	|												|
-| ![alt text][image10]	|												|
-| ![alt text][image11]	|												|
+| ![alt text][image7]	| Easy - centered, good brightness and contrast			|
+| ![alt text][image8]	| Easy - centered, good brightness and contrast												|
+| ![alt text][image9]	| Easy - centered, good brightness and contrast												|
+| ![alt text][image10]	| Hard - this sign is a bit skewed and also has a very bright blue background. The color may throw off the model because certain signs have a similar blue color.											|
+| ![alt text][image11]	| Easy - I expected this to be easy, however the model failed to properly classify this image. It could be because of the dark background and stark contrast to the sign compared to the training images.  											|
 
 
 ####2. Discuss the model's predictions on these new traffic signs and compare the results to predicting on the test set. At a minimum, discuss what the predictions were, the accuracy on these new predictions, and compare the accuracy to the accuracy on the test set (OPTIONAL: Discuss the results in more detail as described in the "Stand Out Suggestions" part of the rubric).
